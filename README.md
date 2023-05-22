@@ -1,7 +1,7 @@
 # ESP-IDF_DHT22_TX
 
 **Table of Contents** 
-1. [Project Description] (#Introduction)
+1. [Project Description](#introduction)
 1. [Project Features]
 1.
 1.
