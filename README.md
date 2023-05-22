@@ -41,7 +41,7 @@ printf("Hello World\n");
 
 
 
-**Changes should be made to the following CMakeFile ** 
+**Changes should be made to the following CMakeFile** 
 
 /WorkSpace/Project_TX/CMakelist.txt
 
