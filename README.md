@@ -15,7 +15,7 @@
 printf("Hello World\n");
 
 ```
-<br><br>
+<br>
 ## Project Description  
 
 **Completed Project Example**
