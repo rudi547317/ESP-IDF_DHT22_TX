@@ -43,10 +43,10 @@ printf("Hello World\n");
 
 **Changes should be made to the following CMakeFile ** 
 
-/UART_XBEE_WorkSpace/Semaphore_And_Queue_plus_DHT22
+/WorkSpace/Project_TX/CMakelist.txt
 
 ```Makefile
-~~PROJECT_NAME := my-esp-project ~~
-~~EXTRA_COMPONENT_DIRS := /home/user/myprojects/esp/esp-idf-lib/components~~
-~~include $(IDF_PATH)/make/project.mk~~
+PROJECT_NAME := my-esp-project 
+EXTRA_COMPONENT_DIRS := /home/user/myprojects/esp/esp-idf-lib/components
+include $(IDF_PATH)/make/project.mk
 ```
