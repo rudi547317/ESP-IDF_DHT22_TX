@@ -4,7 +4,7 @@
 1. [Project Description](#pd-id)
 1. [Project Features](#pf-id)
 1. [Installation and Setup](#ps-id)
-1. [Usage examples]
+1. [Important Repos/Links](#pm-id)
 1. [Availible Parameter Modifications](#il-id)
 
 
@@ -102,5 +102,23 @@ idf_component_register(SRCS "main.c"
 ## Important repos/links  
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+<a id="pm-id"></a>
+
+## Availible Parameter Modifications  
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
