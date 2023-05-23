@@ -59,9 +59,9 @@ printf("Hello World\n")
 ## Project Setup
 
 ### CMakeLists.txt Files
-Delete existing make file and replace with code above 
+Delete default CmakeLists.txt file and replace with code below 
 
-_/WorkSpace/Project_TX/CMakeLists.txt_
+**Directory:**_/WorkSpace/Project_TX/CMakeLists.txt_
 
 ```Makefile
 # The following lines of boilerplate have to be in your project's
@@ -77,7 +77,7 @@ project(${ProjectId})
 <br>
 <br> 
 
-_/WorkSpace/Project_TX/main/CMakeLists.txt_
+**Directory:**_/WorkSpace/Project_TX/main/CMakeLists.txt_
 
 ```Makefile
 # See the build system documentation in IDF programming guide
