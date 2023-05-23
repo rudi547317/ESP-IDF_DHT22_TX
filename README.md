@@ -5,8 +5,7 @@
 1. [Project Features](#pf-id)
 1. [Installation and Setup](#ps-id)
 1. [Usage examples]
-1. [Link to ESP-idf-
-1.
+1. [Important Links]
 
 
 ```c
@@ -34,12 +33,32 @@ printf("Hello World\n")
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 <a id="pd-id"></a>
 
 ## Project Description  
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<a id="il-id"></a>
+
+## Important Links  
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<a id="pd-id"></a>
 
 **Completed Project Example**
 <br>
