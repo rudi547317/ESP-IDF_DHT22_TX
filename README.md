@@ -43,16 +43,16 @@ printf("Hello World\n");
 
 ### Supported versions of frameworks and devices
 
-| Chip           | Framework          | Eclipse Versions                       |
-|----------------|--------------------|----------------------------------------|
-| ESP32          | ESP-IDF v4.3.1     | Eclipse Version:4.20.0.v202110611-1600 |
+| Chip           | Framework          | Eclipse Versions                        |
+|----------------|--------------------|-----------------------------------------|
+| ESP32          | ESP-IDF v4.3.1     | Eclipse Version: 4.20.0.v202110611-1600 |
 
 
 
 
-**Changes should be made to the following CMakeFile** 
+**Changes should be made to the following directory(CMakeFile)** 
 
-/WorkSpace/Project_TX/CMakeLists.txt
+__/WorkSpace/Project_TX/CMakeLists.txt__
 
 ```Makefile
 # The following lines of boilerplate have to be in your project's
