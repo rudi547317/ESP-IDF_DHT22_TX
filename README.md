@@ -52,7 +52,7 @@ printf("Hello World\n");
 
 **Changes should be made to the following directory(CMakeFile)** 
 
-_/WorkSpace/Project_TX/CMakeLists.txt_
+               _/WorkSpace/Project_TX/CMakeLists.txt_
 
 ```Makefile
 # The following lines of boilerplate have to be in your project's
