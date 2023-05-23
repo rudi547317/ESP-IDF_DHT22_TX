@@ -50,9 +50,8 @@ printf("Hello World\n")
 
 
 
-**Changes should be made to the following directory(CMakeFile)** 
-
-&#9_/WorkSpace/Project_TX/CMakeLists.txt_;
+**Changes should be made to the following directories(CMakeFile)** 
+_/WorkSpace/Project_TX/CMakeLists.txt_
 
 ```Makefile
 # The following lines of boilerplate have to be in your project's
@@ -65,3 +64,17 @@ string(REPLACE " " "_" ProjectId ${ProjectId})
 project(${ProjectId})
 ```
 Delete existing make file and replace with code above 
+
+<br>
+<br> 
+_/WorkSpace/Project_TX/main/CMakeLists.txt_
+
+```Makefile
+# See the build system documentation in IDF programming guide
+# for more information about component CMakeLists.txt files.
+
+
+idf_component_register(SRCS "main.c"
+                    INCLUDE_DIRS ".")jectId ${ProjectId})
+project(${ProjectId})
+```
