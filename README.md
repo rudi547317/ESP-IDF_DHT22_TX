@@ -2,7 +2,7 @@
 
 **Table of Contents** 
 1. [Project Description](#pd-id)
-1. [Project Features]
+1. [Project Features](#pf-id)
 1. [Installation and Setup](#ps-id)
 1. [Usage examples]
 1. [Link to ESP-idf-
@@ -22,6 +22,11 @@ printf("Hello World\n")
 <br>
 <br>
 <br>
+
+<a id="pf-id"></a>
+
+## Project Features  
+
 <br>
 <br>
 <br>
@@ -87,3 +92,6 @@ project(${ProjectId})
 idf_component_register(SRCS "main.c"
                     INCLUDE_DIRS ".")
 ```
+
+
+
