@@ -54,7 +54,7 @@ printf("Hello World\n")
 
 ## Project Setup
 
-### CMakeLists.txt File Edit** 
+### CMakeLists.txt Files
 Delete existing make file and replace with code above 
 
 _/WorkSpace/Project_TX/CMakeLists.txt_
