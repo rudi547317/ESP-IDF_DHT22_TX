@@ -5,11 +5,10 @@
 1. [Project Features](#pf-id)
 1. [Installation and Setup](#ps-id)
 1. [Usage examples]
-1. [Important Links](#il-id)
+1. [Availible Parameter Modifications](#il-id)
 
 
 ```c
-
 
 printf("Hello World\n")
 
