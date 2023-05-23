@@ -43,7 +43,7 @@ printf("Hello World\n");
 
 **Changes should be made to the following CMakeFile** 
 
-/WorkSpace/Project_TX/CMakelist.txt
+/WorkSpace/Project_TX/CMakeLists.txt
 
 ```Makefile
 # The following lines of boilerplate have to be in your project's
