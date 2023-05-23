@@ -50,7 +50,10 @@ printf("Hello World\n")
 
 
 
-**Changes should be made to the following directories(CMakeFile)** 
+**Changes should be made to the following CMakeLists.txt Files** 
+
+
+Delete existing make file and replace with code above 
 
 _/WorkSpace/Project_TX/CMakeLists.txt_
 
@@ -64,7 +67,6 @@ get_filename_component(ProjectId ${CMAKE_CURRENT_LIST_DIR} NAME)
 string(REPLACE " " "_" ProjectId ${ProjectId})
 project(${ProjectId})
 ```
-Delete existing make file and replace with code above 
 
 <br>
 <br> 
@@ -77,6 +79,5 @@ _/WorkSpace/Project_TX/main/CMakeLists.txt_
 
 
 idf_component_register(SRCS "main.c"
-                    INCLUDE_DIRS ".")jectId ${ProjectId})
-project(${ProjectId})
+                    INCLUDE_DIRS ".")
 ```
