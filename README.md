@@ -41,6 +41,14 @@ printf("Hello World\n");
 ![image](https://github.com/rudi547317/ESP-IDF_DHT22_TX/assets/133919829/0d16897e-867d-4298-a99f-3b3447507038)
 
 
+## Supported versions of frameworks and devices
+
+| Chip           | Framework          | Eclipse Versions                       |
+|----------------|--------------------|----------------------------------------|
+| ESP32          | ESP-IDF v4.3.1     | Eclipse Version:4.20.0.v202110611-1600 |
+
+
+
 
 **Changes should be made to the following CMakeFile** 
 
