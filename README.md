@@ -14,6 +14,28 @@
 printf("Hello World\n")
 
 ```
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<a id="pd-id"></a>
+
+## Project Description  
+
+![image](https://github.com/rudi547317/ESP-IDF_DHT22_TX/assets/133919829/0d16897e-867d-4298-a99f-3b3447507038)
+
+
+### Supported versions of frameworks and devices
+
+| Chip           | Framework          | Eclipse Versions                        |
+|----------------|--------------------|-----------------------------------------|
+| ESP32          | ESP-IDF v4.3.1     | Eclipse Version: 4.20.0.v202110611-1600 |
+
 <br>
 <br>
 <br>
@@ -34,34 +56,8 @@ printf("Hello World\n")
 <br>
 <br>
 
-<a id="pd-id"></a>
-
-## Project Description  
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<a id="il-id"></a>
-
-## Important Links  
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<a id="pd-id"></a>
-
 **Completed Project Example**
-<br>
+
 ![image](https://github.com/rudi547317/ESP-IDF_DHT22_TX/assets/133919829/0d16897e-867d-4298-a99f-3b3447507038)
 
 
@@ -71,16 +67,17 @@ printf("Hello World\n")
 |----------------|--------------------|-----------------------------------------|
 | ESP32          | ESP-IDF v4.3.1     | Eclipse Version: 4.20.0.v202110611-1600 |
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-
-
-<br>
-<br>
-<br>
-<br>
 <a id="ps-id"></a>
 
-## Project Setup
+## Installation and Setup
 
 ### CMakeLists.txt Files
 Delete default CmakeLists.txt file and replace with code below 
