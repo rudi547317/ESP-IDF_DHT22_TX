@@ -4,7 +4,7 @@
 1. [Project Description](#pd-id)
 1. [Project Features](#pf-id)
 1. [Installation and Setup](#ps-id)
-1. [Important Repos/Links](#pm-id)
+1. [Important repos/links](#pm-id)
 1. [Availible Parameter Modifications](#il-id)
 
 
