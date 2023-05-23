@@ -5,7 +5,7 @@
 1. [Project Features](#pf-id)
 1. [Installation and Setup](#ps-id)
 1. [Usage examples]
-1. [Important Links]
+1. [Important Links](#il-id)
 
 
 ```c
@@ -90,16 +90,18 @@ idf_component_register(SRCS "main.c"
                     INCLUDE_DIRS ".")
 ```
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<a id="il-id"></a>
+
 ## Important repos/links  
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<a id="ps-id"></a>
 
 
