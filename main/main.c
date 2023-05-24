@@ -52,8 +52,8 @@
 
 #define TOFAR(temperature) ((temperature)*1.8 + 32)
 
-#define UART_2_TX 17					//GPIO NUMBER 1
-#define	UART_2_RX 16					//GPIO NUMBER 3
+#define UART_2_TX 17					//GPIO NUMBER 17
+#define	UART_2_RX 16					//GPIO NUMBER 16
 
 
 	void init_RS232()
@@ -151,7 +151,7 @@ void myTask2_receive_q_with_UART(void *pvParam)
 
     	  	uart_float = rx_float;
 
-    	 	sprintf(data,"%.1f ",uart_float);
+    	 	sprintf(data,"%.1f\n",uart_float);
 
 
 
