@@ -49,7 +49,11 @@ This project aims to collect temperature data from the DHT22 sensor and transmit
 
 <br>
 <br>
+<br> 
+<br> 
+
 **SparkFun XBee Explorer USB**
+
 Is used as a USB-to-Serial converter for uploading firmware to your XBee and configuring settings.
 
 ![image](https://github.com/rudi547317/ESP-IDF_DHT22_TX/assets/133919829/679c8796-8a2c-4acc-bca1-7963bcdedd04)
