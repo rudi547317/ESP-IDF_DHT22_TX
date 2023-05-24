@@ -132,9 +132,13 @@ idf_component_register(SRCS "main.c"
 1. [XBee S2 Quick Reference Guide](https://www.tunnelsup.com/images/xbee.png)
 1. [SparkFun XBee Explorer USB](https://www.sparkfun.com/products/11812)
 1. [XBee Pro S2C](https://www.mouser.com/ProductDetail/DIGI/XB24CAWIT-001?qs=%2FPVulymFwT1u0cCwuRVF0g%3D%3D)
+
 <br>
 <br>
 <br>
+### DHT22 Sensor
+1. [DHT22 Sensor](https://www.amazon.com/Aideepen-Digital-Temperature-Humidity-Replace/dp/B01IBBFOF0/ref=asc_df_B01IBBFOF0/?tag=hyprod-20&linkCode=df0&hvadid=312281654867&hvpos=&hvnetw=g&hvrand=7841827357427414658&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028692&hvtargid=pla-566887873606&psc=1)
+
 <br>
 <br>
 <br>
