@@ -7,27 +7,22 @@
 1. [Important repos/links](#pm-id)
 1. [Availible Parameter Modifications](#il-id)
 
-
-```c
-
-printf("Hello World\n")
-
-```
-
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
 <a id="pd-id"></a>
 
 ## Project Description  
+**Introduction**
+This project aims to collect temperature data from the DHT22 sensor and transmit it using UART communication. Additionally one may choose to deploy the use of an XBee and the Zigbee protocol(802.15.4) and the XCTU software to make the device portable.
 
+
+
+
+
+
+**Example of a completed project**
 ![image](https://github.com/rudi547317/ESP-IDF_DHT22_TX/assets/133919829/0d16897e-867d-4298-a99f-3b3447507038)
-
 
 ### Supported versions of frameworks and devices
 
