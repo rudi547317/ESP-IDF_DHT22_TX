@@ -136,6 +136,7 @@ idf_component_register(SRCS "main.c"
 <br>
 <br>
 <br>
+
 ### DHT22 Sensor
 1. [DHT22 Sensor](https://www.amazon.com/Aideepen-Digital-Temperature-Humidity-Replace/dp/B01IBBFOF0/ref=asc_df_B01IBBFOF0/?tag=hyprod-20&linkCode=df0&hvadid=312281654867&hvpos=&hvnetw=g&hvrand=7841827357427414658&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028692&hvtargid=pla-566887873606&psc=1)
 
