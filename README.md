@@ -103,7 +103,7 @@ idf_component_register(SRCS "main.c"
 ### XBee
 1. [XCTU](https://hub.digi.com/support/products/xctu/)
 1. [XBee S2 Quick Reference Guide](https://www.tunnelsup.com/images/xbee.png)
-1. [SparkFun XBee Explorer USB](https://www.sparkfun.com/products/11812P)
+1. [SparkFun XBee Explorer USB](https://www.sparkfun.com/products/11812)
 
 <br>
 <br>
