@@ -65,6 +65,10 @@ Is used as a USB-to-Serial converter for uploading firmware to your XBee and con
 
 **DHT22 Tempreture and Humidity Sensor**
 
+Tempreture Sensor that works with the esp-idf-lib drivers. 
+
+![image](https://github.com/rudi547317/ESP-IDF_DHT22_TX/assets/133919829/195f775d-3174-41c5-9bdf-bc27a8100ce0)
+
 <br>
 <br>
 <br>
