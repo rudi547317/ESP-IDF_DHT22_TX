@@ -14,7 +14,7 @@
 
 ## Project Description  
 **Introduction**
-This project aims to collect temperature data from the DHT22 sensor and transmit it using UART communication. Additionally one may choose to deploy the use of an XBee and the Zigbee protocol(802.15.4) and the XCTU software to make the device portable.
+This project aims to collect temperature data from the DHT22 sensor and transmit it using UART communication. Additionally one may choose to deploy the use of an XBee and the Zigbee protocol and the XCTU software to make the device portable.
 
 
 
@@ -99,6 +99,11 @@ idf_component_register(SRCS "main.c"
 1. [esp-idf-lib](https://github.com/UncleRus/esp-idf-lib)
 1. [ESP-IDF Programming Guide](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/index.html)
 1. [freeRTOS API Reference](https://www.freertos.org/a00106.html)
+
+### XBee
+1.[XCTU](https://hub.digi.com/support/products/xctu/)
+1.[Xbee S2 Quick Reference Guide](https://www.tunnelsup.com/images/xbee.png)
+1.[SparkFun XBee Explorer USB](https://www.sparkfun.com/products/11812P)
 
 <br>
 <br>
