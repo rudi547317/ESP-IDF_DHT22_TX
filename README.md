@@ -100,7 +100,10 @@ idf_component_register(SRCS "main.c"
 <a id="il-id"></a>
 
 ## Important repos/links  
-
+### ESP32
+1. [esp-idf-lib](https://github.com/UncleRus/esp-idf-lib)
+1. [ESP-IDF Programming Guide](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/index.html)
+1 [freeRTOS API Reference](https://www.freertos.org/a00106.html)
 
 <br>
 <br>
