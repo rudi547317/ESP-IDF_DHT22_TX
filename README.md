@@ -60,6 +60,13 @@ Is used as a USB-to-Serial converter for uploading firmware to your XBee and con
 
 <br>
 <br>
+<br> 
+<br> 
+
+**DHT22 Tempreture and Humidity Sensor**
+
+<br>
+<br>
 <br>
 <br>
 <br>
