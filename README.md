@@ -14,7 +14,7 @@
 
 ## Project Description  
 **Introduction**
-This project aims to collect temperature data from the DHT22 sensor and transmit it using UART communication. Additionally one may choose to deploy the use of an XBee and the Zigbee protocol and the XCTU software to make the device portable. This section only cover the transmission and aquasition of tempreture as shown on right in the picture below. If you wish to implement the recieving end please see repo: __ESP-IDF-DHT22_RX__ .
+This project aims to collect temperature data from the DHT22 sensor and transmit it using UART communication. Additionally one may choose to deploy the use of an XBee and the Zigbee protocol and the XCTU software to make the device portable. This section only cover the transmission and aquasition of tempreture as shown on right in the picture below. If you wish to implement the recieving end please see repo: "ESP-IDF-DHT22_RX".
 
 
 
@@ -22,6 +22,7 @@ This project aims to collect temperature data from the DHT22 sensor and transmit
 
 
 **Example of a completed project**
+
 ![image](https://github.com/rudi547317/ESP-IDF_DHT22_TX/assets/133919829/0d16897e-867d-4298-a99f-3b3447507038)
 
 ### Supported versions of frameworks and devices
