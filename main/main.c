@@ -155,7 +155,7 @@ void myTask2_receive_q_with_UART(void *pvParam)
 
 
 
-    	 	printf("\n We are sending %s\n", data);		//THIS WILL NOW WORK YAHOO!!!! YAHOO!!!
+    	 	printf("\n We are sending %s\n", data);		
 
     	 	uart_write_bytes_with_break(UART_NUM_2, data, strlen(data),pdMS_TO_TICKS(300));
             uart_flush(UART_NUM_2);
