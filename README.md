@@ -14,7 +14,7 @@
 
 ## Project Description  
 **Introduction**
-This project aims to collect temperature data from the DHT22 sensor and transmit it using UART communication. Additionally one may choose to deploy the use of an XBee and the Zigbee protocol and the XCTU software to make the device portable. This section only covers the transmission and acquisition of temperature as the module to the right in the picture below. If you wish to implement the recieving end please see repo: "ESP32_DHT22_RX".
+This project aims to collect temperature data from the DHT22 sensor and transmit it using UART communication. Additionally one may choose to deploy the use of an XBee and the Zigbee protocol and the XCTU software to make the device portable. This section only covers the transmission and acquisition of temperature as shown in the module to the right in the picture below. If you wish to implement the recieving end please see repo: "ESP32_DHT22_RX".
 
 **Example of a completed project**
 
@@ -35,6 +35,17 @@ This project aims to collect temperature data from the DHT22 sensor and transmit
 <a id="pf-id"></a>
 
 ## Project Features  
+
+**Three Slot AA Batterty Pack**
+
+Optionally you may solder on higher quality wires, as standard equipped are very low quality(can rip or not fully take advatage of the battery packs load). 
+
+![image](https://m.media-amazon.com/images/I/51VFLAvzsRL.__AC_SY300_SX300_QL70_FMwebp_.jpg)
+<br> 
+<br> 
+<br>
+<br>
+
 
 **XBee Pro S2C**
 
@@ -66,14 +77,6 @@ Temperature Sensor that works with the esp-idf-lib drivers.
 <br>
 <br> 
 <br> 
-
-**Three Slot AA Batterty Pack**
-
-![image](https://m.media-amazon.com/images/I/51VFLAvzsRL.__AC_SY300_SX300_QL70_FMwebp_.jpg)
-<br> 
-<br> 
-<br>
-<br>
 
 <a id="ps-id"></a>
 
