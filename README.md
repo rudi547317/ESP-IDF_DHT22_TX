@@ -1,4 +1,4 @@
-# ESP-IDF_DHT22_TX
+# ESP32 ESP-IDF_DHT22_TX
 
 **Table of Contents** 
 1. [Project Description](#pd-id)
@@ -14,7 +14,7 @@
 
 ## Project Description  
 **Introduction**
-This project aims to collect temperature data from the DHT22 sensor and transmit it using UART communication. Additionally one may choose to deploy the use of an XBee and the Zigbee protocol and the XCTU software to make the device portable. This section only covers the transmission and acquisition of tempreture as shown on right in the picture below. If you wish to implement the recieving end please see repo: "ESP-IDF-DHT22_RX".
+This project aims to collect temperature data from the DHT22 sensor and transmit it using UART communication. Additionally one may choose to deploy the use of an XBee and the Zigbee protocol and the XCTU software to make the device portable. This section only covers the transmission and acquisition of temperature as the module to the right in the picture below. If you wish to implement the recieving end please see repo: "ESP32_DHT22_RX".
 
 **Example of a completed project**
 
@@ -22,17 +22,15 @@ This project aims to collect temperature data from the DHT22 sensor and transmit
 
 ### Supported versions of frameworks and devices
 
-| Chip           | Framework          | Eclipse Versions                        |
-|----------------|--------------------|-----------------------------------------|
-| ESP32          | ESP-IDF v4.3.1     | Eclipse Version: 4.20.0.v202110611-1600 |
+| Chip                     | Framework          | Eclipse Versions                        |
+|--------------------------|--------------------|-----------------------------------------|
+| ESP32 devkit v1          | ESP-IDF v4.3.1     | Eclipse Version: 4.20.0.v202110611-1600 |
 
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 <a id="pf-id"></a>
 
@@ -60,10 +58,20 @@ Is used as a USB-to-Serial converter for uploading firmware to your XBee and con
 
 **DHT22 Tempreture and Humidity Sensor**
 
-Tempreture Sensor that works with the esp-idf-lib drivers. 
+Temperature Sensor that works with the esp-idf-lib drivers. 
 
 ![image](https://github.com/rudi547317/ESP-IDF_DHT22_TX/assets/133919829/195f775d-3174-41c5-9bdf-bc27a8100ce0)
 
+<br>
+<br>
+<br> 
+<br> 
+
+**Three Slot AA Batterty Pack**
+
+![image](https://m.media-amazon.com/images/I/51VFLAvzsRL.__AC_SY300_SX300_QL70_FMwebp_.jpg)
+<br> 
+<br> 
 <br>
 <br>
 
