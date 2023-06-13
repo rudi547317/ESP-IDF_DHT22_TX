@@ -137,6 +137,6 @@ idf_component_register(SRCS "main.c"
 <a id="pm-id"></a>
 
 ## Availible Parameter Modifications  
-
+1.Generally, it is not recommended to use UART0 as a normal serial communication port, because it is the default LOG output port
 <br>
 <br>
