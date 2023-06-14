@@ -139,7 +139,7 @@ idf_component_register(SRCS "main.c"
 ## Availible Parameter Modifications  
 ### Modifications which should be AVOIDED!
 **1. Use either TX2 OR TX1. AVOID USING TX0 or RX0!**
-    * Generally, it is not recommended to use UART0 as a normal serial communication port, because it is the default LOG output port.
+    _Generally, it is not recommended to use UART0 as a normal serial communication port, because it is the default LOG output port._
 1.  
 <br>
 <br>
