@@ -141,6 +141,6 @@ idf_component_register(SRCS "main.c"
 **1. Use either TX2 OR TX1. AVOID USING TX0 or RX0!**
     _Generally, it is not recommended to use UART0 as a normal serial communication port, because it is the default LOG output port._
     <br>
-**1. Baud rate.** _While modifications to baudrate may be possible, this project was set to operate at 115200 additional modifications to the SDK Configuration file could access issues. However, this is pure speculation._
+**2. Baud rate.** _While modifications to baudrate may be possible, this project was set to operate at 115200 additional modifications to the SDK Configuration file could access issues. However, this is pure speculation._
 <br>
 
